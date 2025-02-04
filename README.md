@@ -1,6 +1,6 @@
 ## Solidity Design Patterns Modeled by DCR Graphs
 
-A comprehensive collection of **high-level design patterns** of smart contracts modeled in DCR graphs semantics.
+A comprehensive collection of **high-level design patterns** of smart contracts modeled in dynamic condition response (DCR) graph semantics.
 
 ### 📌 Table of Contents
 
